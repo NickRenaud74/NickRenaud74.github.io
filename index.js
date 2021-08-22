@@ -1,8 +1,8 @@
-markupCont = document.querySelector('.markup-img-container');
-elementCont = document.querySelector('.element-img-container');
+const markupCont = document.querySelector('.markup-img-container');
+const elementCont = document.querySelector('.element-img-container');
 
-markupHover = document.querySelector('.markup-img-hover');
-elementHover = document.querySelector('.element-img-hover');
+const markupHover = document.querySelector('.markup-img-hover');
+const elementHover = document.querySelector('.element-img-hover');
 
 
 function animation(div, action) {
